@@ -38,7 +38,7 @@ with open("email_list.txt", "r") as file:
 
 # Set up sender email credentials
 sender_email = ""
-sender_password = "kbsz fmjf ofee owrl"  # foolow the steps in the readme to know hot to get this password (not email password !!!!
+sender_password = ""  # foolow the steps in the readme to know hot to get this password (not email password !!!!
 subject = "Subject of the email"
 message_body = "Body of the email"
 attachment_path = "aa.pdf" # pdf to attach
