@@ -1,6 +1,6 @@
 u need a file called email_list.txt that contains the target email addresses, with each address being on a seperate line 
 
-don't forget about the pdf file that you're going to attach with you're email
+don't forget about the pdf file that you're going to attach with your email
 
 
 To get the google app password, follow the instructions provided in the following link:
